@@ -6,6 +6,10 @@
 - **Class:** AIDS C
 - **Subject:** Regression and Classification Algorithms (CIE 2)
 
+- **GitHub profile:** https://github.com/complexiota
+- **PROJECT GITHUB LINK**: https://github.com/ftw-rudra/RCA-Activity-1-AD-3343-
+
+
 ## Objective
 To build a Multiple Linear Regression model that predicts student marks using study hours and attendance.
 
@@ -67,6 +71,3 @@ The file `student_marks_prediction_dataset.csv` contains **50 synthetic records*
 - Results are intended for learning and demonstration only.
 - Linear Regression assumptions should be checked using the diagnostic plots and VIF; they should not be assumed to hold automatically.
 - The model does not establish that study hours or attendance cause a particular mark.
-
-## Reference
-GitHub profile: https://github.com/complexiota
