@@ -5,9 +5,8 @@
 - **Roll No.:** AD3343
 - **Class:** AIDS C
 - **Subject:** Regression and Classification Algorithms (CIE 2)
-
-- **GitHub profile:** https://github.com/complexiota
-- **PROJECT GITHUB LINK**: https://github.com/ftw-rudra/RCA-Activity-1-AD-3343-
+- **Submission GitHub ID:** https://github.com/complexiota
+- **PROJECT GITHUB LINK:** https://github.com/ftw-rudra/RCA-Activity-1-AD-3343-
 
 
 ## Objective
